@@ -1,0 +1,22 @@
+Type . to quit.
+Rack? We can make 0 words from "BLOB"
+Rack? We can make 3 words from "BLDGOOO"
+All of the words with their scores (sorted by score):
+6: GOOD
+5: DOG
+5: GOD
+Rack? We can make 4 words from "DUOTDEG"
+All of the words with their scores (sorted by score):
+6: DUDE
+5: DOG
+5: GOD
+2: TO
+Rack? We can make 6 words from "DOTWGOO"
+All of the words with their scores (sorted by score):
+8: WOOD
+6: GOOD
+6: WOO
+5: DOG
+5: GOD
+2: TO
+Rack? 
